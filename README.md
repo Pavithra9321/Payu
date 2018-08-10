@@ -10,11 +10,11 @@ This is an Android Weather App that show you how to make HTTP requests using Fas
 - Works with any city in the world
 
 # Screenshots
-
+<p float="left">
 <img src="http://i.imgur.com/bvcc7Lt.png" data-canonical-src="http://i.imgur.com/bvcc7Lt.png" width="200" height="400" />
      <img src="http://i.imgur.com/bvcc7Lt.png" data-canonical-src="http://i.imgur.com/bvcc7Lt.png" width="200" height="400" />
      <img src="http://i.imgur.com/bvcc7Lt.png" data-canonical-src="http://i.imgur.com/bvcc7Lt.png" width="200" height="400" />   
-
+</p>
 
 
 You can also:
